@@ -27,4 +27,36 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/cristhiansagun/exam-historical-exchange-rate-app.git
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd exam-historical-exchange-rate-app
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   pnpm install
+   yarn install
+
+
+### Running the Application
+
+1. **Start the development server:**
+
+   ```bash
+   npm run dev
+   or
+   yarn dev
+   
+2. **Open your browser and visit:**
+
+   ```bash
+   http://localhost:5173
+
+### Building the Application
+
+   ```bash
+   npm run build
