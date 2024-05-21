@@ -38,7 +38,9 @@ Ensure you have the following installed on your machine:
 
    ```bash
    npm install
+   or
    pnpm install
+   or
    yarn install
 
 
